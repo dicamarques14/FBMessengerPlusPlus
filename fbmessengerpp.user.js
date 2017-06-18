@@ -9,8 +9,8 @@
 // @require http://code.jquery.com/jquery-latest.js
 // @grant        none
 // @run-at document-idle
-// @updateURL    https://raw.githubusercontent.com/dicamarques14/MoodleESTGVPlusPlus/master/moodleestgvpp.meta.js
-// @downloadURL  https://raw.githubusercontent.com/dicamarques14/MoodleESTGVPlusPlus/master/moodleestgvpp.user.js
+// @updateURL    https://github.com/dicamarques14/FBMessengerPlusPlus/raw/master/fbmessengerpp.meta.js
+// @downloadURL  https://github.com/dicamarques14/FBMessengerPlusPlus/raw/master/fbmessengerpp.user.js
 // @updateVersion 0.1
 // ==/UserScript==
 function sleep(milliseconds) {
