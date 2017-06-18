@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name Hide Messenger Sidebar
+// @name FB Messenger ++
 // @namespace https://github.com/dicamarques14/
 // @version 0.1
 // @description hide messengers list of conversations
