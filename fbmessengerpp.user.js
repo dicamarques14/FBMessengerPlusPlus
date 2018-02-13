@@ -33,16 +33,17 @@ $( document ).ready(function() {
   
   if(enable){
     var convThreads = document.getElementsByClassName('_1enh');
-    while(convThreads[0] === undefined){
+    /*while(convThreads[0] === undefined){
       sleep(1000);
       convThreads = document.getElementsByClassName('_1enh');
 
-    }
-    console.log(convThreads[0]);
+    }*/
+    
     if(convThreads === undefined){
       console.log("i tried");
     }
     else{
+      console.log(convThreads[0]);
       convThreads[0].style = "flex-basis: 110px !important ;min-width: 60px;";
     }
   }
