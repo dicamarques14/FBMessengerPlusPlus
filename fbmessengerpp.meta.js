@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name FB Messenger ++
 // @namespace https://github.com/dicamarques14/
-// @version 0.3
+// @version 0.4
 // @description hide messengers list of conversations
 // @match https://www.messenger.com/*
 // @match https://www.facebook.com/messages/*
